@@ -1,2 +1,3 @@
 # Base
-Base serveru
+Dodělává se base serveru.
+
